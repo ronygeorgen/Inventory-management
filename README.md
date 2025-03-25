@@ -1,6 +1,6 @@
 # Inventory Management API
 
-## Project Title: Building a Backend API for a Simple Inventory Management System using Django Rest Framework
+## Building a Backend API for a Simple Inventory Management System using Django Rest Framework
 
 ### Objective
 Develop a backend API for an Inventory Management System that supports CRUD operations on inventory items, integrated with JWT-based authentication for secure access. The system utilizes Django Rest Framework (DRF), PostgreSQL for the database, Redis for caching, and includes unit tests to ensure functionality. It also implements error handling and logging for debugging and monitoring.
