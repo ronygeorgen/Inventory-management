@@ -19,6 +19,7 @@ Develop a backend API for an Inventory Management System that supports CRUD oper
 - [Testing](#testing)
 - [Logging](#logging)
 - [Usage Examples](#usage-examples)
+- [API Documentation](#api-documentation)
 
 ---
 
@@ -178,5 +179,9 @@ Authorization: Bearer <your-token>
 
 ---
 
+## API Documentation
+For detailed API documentation, refer to the Postman collection:
+[Inventory Management API Documentation](https://documenter.getpostman.com/view/36618039/2sAYkKGx4p)
 
+---
 
